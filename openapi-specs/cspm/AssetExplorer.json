@@ -680,7 +680,7 @@
           "reasonPhrase": {
             "type": "string"
           },
-          "statusCode": {
+          "status": {
             "type": "integer",
             "format": "int32"
           }
